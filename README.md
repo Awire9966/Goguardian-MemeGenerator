@@ -1,2 +1,2 @@
 # GoGaurdian-MemeGenerator
-This will create a gogaurdian block page meme generator.
+This will create a gogaurdian block page meme.
